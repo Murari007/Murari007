@@ -4,10 +4,8 @@
 
 <h3 align="center">Software Developer | ML | IOT</h3>
 
-###
-
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Murari007.Murari007&left_text=Profile Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Murari007.Murari007&left_text=Profile%20Views" />
 </div>
 
 ###
