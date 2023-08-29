@@ -14,7 +14,12 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Flutter, Machine learning and IOT for software development<br><br>👯 I’m looking to collaborate on Interesting Projects<br><br>💬 Ask me about Image Processing, flutter and Embedded systems<br><br>📫 How to reach me gmurari911@gmail.com</p>
+<p align="left">
+  📚 I'm currently learning Flutter, Machine learning and IOT for software development<br><br>
+  👯 I’m looking to collaborate on Interesting Projects<br><br>
+  💬 Ask me about Image Processing, flutter and Embedded systems<br><br>
+  📫 How to reach me <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a>
+</p>
 
 ###
 
@@ -74,11 +79,14 @@
 
 <h3 align="left">Stats:</h3>
 
-###
+
+### GitHub Statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murari007&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Murari007&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=8&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murari007&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Murari007&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=8&order=3&refresh=1" height="150" alt="streak graph" />
 </div>
+
+
 
 ###
