@@ -17,7 +17,7 @@
 <p align="left">
   📚 I'm currently learning Flutter, Machine learning and IOT for software development<br><br>
   👯 I’m looking to collaborate on Interesting Projects<br><br>
-  💬 Ask me about Image Processing, flutter and Embedded systems<br><br>
+  💬 Ask me about Image Processing, flutter and Embedded systems & Computer Vision<br><br>
   📫 How to reach me <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a>
 </p>
 
