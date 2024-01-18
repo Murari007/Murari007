@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Developer | ML | IOT</h3>
+<h3 align="center">Edge AI Software Developer | ML | IOT</h3>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Murari007.Murari007&left_text=Profile%20Views" />
@@ -14,12 +14,21 @@
 
 ###
 
-<p align="left">
-  📚 I'm currently learning Flutter, Machine learning and IOT for software development<br><br>
-  👯 I’m looking to collaborate on Interesting Projects<br><br>
-  💬 Ask me about Image Processing, flutter and Embedded systems & Computer Vision<br><br>
-  📫 How to reach me <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a>
-</p>
+<h3 align="left">About me:</h3>
+
+<ul>
+  <li>📚 Proficient in Python, C++, C, and Flutter for application development, Edge Devices, IoT, and Application Development.</li>
+  <li>🌱 Engaged in Freelancing, Research Work, Open Source Contributions, and Real-Time Projects in the Tech Industry.</li>
+  <li>🔍 Key Interest Areas:
+    <ul>
+      <li>💬 Image Processing</li>
+      <li>🚀 Flutter</li>
+      <li>🌐 Embedded Systems & Computer Vision</li>
+    </ul>
+  </li>
+  <li>📫 How to reach me: <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a></li>
+</ul>
+
 
 ###
 
