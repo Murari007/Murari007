@@ -12,10 +12,6 @@
 
 <h3 align="left">About me:</h3>
 
-###
-
-<h3 align="left">About me:</h3>
-
 <ul>
   <li>📚 Proficient in Python, C++, C, and Flutter for application development, Edge Devices, IoT, and Application Development.</li>
   <li>🌱 Engaged in Freelancing, Research Work, Open Source Contributions, and Real-Time Projects in the Tech Industry.</li>
