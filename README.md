@@ -32,13 +32,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40" alt="twitter logo"  />
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40" alt="twitter logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <a href="https://stackoverflow.com/users/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo" />
+  </a>
 </div>
 
 ###
