@@ -13,12 +13,11 @@
 <h3 align="left">About me:</h3>
 
 <ul>
-  <li>📚 Proficient in Python, C++, C, and Flutter for application development, Edge Devices, IoT, and Application Development.</li>
+  <li>📚 Proficient in Python, C++, C, and Rust for application development, Edge Devices, IoT, and Application Development.</li>
   <li>🌱 Engaged in Freelancing, Research Work, Open Source Contributions, and Real-Time Projects in the Tech Industry.</li>
   <li>🔍 Key Interest Areas:
     <ul>
       <li>💬 Image Processing</li>
-      <li>🚀 Flutter</li>
       <li>🌐 Embedded Systems & Computer Vision</li>
     </ul>
   </li>
