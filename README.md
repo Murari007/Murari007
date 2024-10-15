@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/murarig17" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" />
   </a>
   <img width="12" />
