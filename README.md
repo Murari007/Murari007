@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Edge AI Software Developer | ML | IOT</h3>
+<h3 align="center">Edge AI Engineer | ML |  HPC </h3>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Murari007.Murari007&left_text=Profile%20Views" />
@@ -17,8 +17,8 @@
   <li>🌱 Engaged in Freelancing, Research Work, Open Source Contributions, and Real-Time Projects in the Tech Industry.</li>
   <li>🔍 Key Interest Areas:
     <ul>
-      <li>💬 Image Processing</li>
-      <li>🌐 Embedded Systems & Computer Vision</li>
+      <li> Edge AI Hardware & Software</li>
+      <li> Scientfic Computing && HPC Application Programming</li>
     </ul>
   </li>
   <li>📫 How to reach me: <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a></li>
@@ -26,28 +26,6 @@
 
 
 ###
-
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/murarig17" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40" alt="twitter logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
-  </a>
-  <img width="12" />
-  <a href="https://stackoverflow.com/users/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo" />
-  </a>
-</div>
 
 ###
 
