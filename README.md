@@ -20,7 +20,7 @@
       <li> Scientfic Computing && HPC Application Programming</li>
     </ul>
   </li>
-  <li>📫 How to reach me: <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a></li>
+  <li>📫 Reach me @ <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a></li>
 </ul>
 
 
@@ -54,7 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
