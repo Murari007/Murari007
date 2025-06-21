@@ -13,14 +13,14 @@
 <h3 align="left">About me:</h3>
 
 <ul>
-  <li>🌱 Engaged in Freelancing, Research Work, Open Source Contributions, and projects in the Tech Industry</li>
-  <li>🔍 Key Interest Areas:
+  <li> Engaged in Freelancing, Research Work, Open Source Contributions, and projects in the Tech Industry</li>
+  <li> Key Interest Areas:
     <ul>
       <li> Edge AI Hardware & Software</li>
       <li> Scientfic Computing && HPC Application Programming</li>
     </ul>
   </li>
-  <li>📫 Reach me @ <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a></li>
+  <li> Reach me @ <a href="mailto:gmurari911@gmail.com">gmurari911@gmail.com</a></li>
 </ul>
 
 
