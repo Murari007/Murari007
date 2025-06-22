@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="center">Edge AI Engineer @ SandLogic</h3>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Murari007.Murari007&left_text=Profile%20Views" />
-</div>
-
-###
-
 <h3 align="left">About me:</h3>
 
 <ul>
